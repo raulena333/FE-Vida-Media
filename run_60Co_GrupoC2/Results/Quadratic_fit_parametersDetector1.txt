@@ -1,0 +1,6 @@
+Fitted parameters for quadratic energy calibration:
+------------------------------------------------
+a (quadratic term): 0.000309 +- 0.000000
+b (linear term): 0.719222 +- 0.000444
+c (constant term): 25.167247 +- 0.060477
+------------------------------------------------

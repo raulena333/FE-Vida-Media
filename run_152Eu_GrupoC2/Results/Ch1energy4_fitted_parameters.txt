@@ -1,0 +1,9 @@
+Fitted parameters for Ch1energy4:
+------------------------------------------------
+a (offset): 60.8784 +- 56.4474
+b (background slope): 0.0104 +- 0.0694
+c (peak height): 143.6718 +- 3.9514
+xc (peak center): 799.2370 +- 0.3869 channel
+s (peak width): 12.4781 +- 0.4950 channel
+------------------------------------------------
+Gaussian peak energy: 778.9 keV

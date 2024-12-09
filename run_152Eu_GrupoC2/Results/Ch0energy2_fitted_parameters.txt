@@ -1,0 +1,9 @@
+Fitted parameters for Ch0energy2:
+------------------------------------------------
+a (offset): 252.6706 +- 36.3946
+b (background slope): -0.3848 +- 0.0912
+c (peak height): 308.1309 +- 6.2721
+xc (peak center): 415.2903 +- 0.2108 channel
+s (peak width): 9.6798 +- 0.2399 channel
+------------------------------------------------
+Gaussian peak energy: 244.69 keV

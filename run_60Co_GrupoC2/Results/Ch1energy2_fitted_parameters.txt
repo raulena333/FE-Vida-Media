@@ -1,0 +1,9 @@
+Fitted parameters for Ch1energy2:
+------------------------------------------------
+a (offset): 1010.4409 +- 70.5364
+b (background slope): -0.8052 +- 0.0593
+c (peak height): 3100.0842 +- 15.9932
+xc (peak center): 1192.9190 +- 0.0461 channel
+s (peak width): 10.1397 +- 0.0408 channel
+------------------------------------------------
+Gaussian peak energy: 1332.492 keV
